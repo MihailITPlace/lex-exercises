@@ -1,0 +1,1 @@
+seLect clm1, clm2 FroM table1 WHERE id = "seleCT morkovka"
